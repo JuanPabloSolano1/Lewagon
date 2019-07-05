@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  font-family: Helvetica;
+  color: white;
+  font-weight: bold;
+  background: cover;
+}
+h1{
+  position: absolute;
+  top: 90px;
+  text-align: center;
+}
