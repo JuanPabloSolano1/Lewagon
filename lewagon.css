@@ -3,7 +3,8 @@ body{
   font-family: Helvetica;
   color: white;
   font-weight: bold;
-  background: cover;
+  background-size: cover;
+  display: flex;
 }
 h1{
   position: absolute;
